@@ -1,4 +1,7 @@
+<h2> 
 #Web Dev Assignments-
+</h2>
+<h3> Check them out!</h3>
 
 > Snake Game : https://codlocker.github.io/Small-Projects/Snake_FOoDie/Welcome.html
 
